@@ -1,5 +1,7 @@
 # Question 1
 stuff about data
+![image](https://github.com/Luke-J-Miller/CS5530/assets/111100132/4ee0273a-c339-41ca-a6ee-dd5086af8c6f)
+
 ![image](https://github.com/Luke-J-Miller/CS5530/assets/111100132/3280d678-5cd0-439b-a725-06890e0cc84f)
 
 
