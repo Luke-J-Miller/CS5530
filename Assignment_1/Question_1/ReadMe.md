@@ -11,7 +11,8 @@ pairs.panels was used to understand distributions and correlations in the data.
 Additionally, a correlation plot was used to further visualize correlations in the data. Of particualr interest are the strong positive correlation between frailty and weight. This was further refined with the weight divided by height metric.  Additionally there was a negative correlation between frailty and grip strength.  This was further refined with the grip strength divided by height metric
 ![image](https://github.com/Luke-J-Miller/CS5530/assets/111100132/46df5123-03f5-487e-9a5e-91b5bc6ed579)  
   
-The following four charts show the distribution of frailty with different features.  It appears height divided by weight is best able to separate the samples with the exception of one outlier.
+The following four charts show the distribution of frailty with different features.  It appears height divided by weight is best able to separate the samples with the exception of one outlier.  
+  
 ![image](https://github.com/Luke-J-Miller/CS5530/assets/111100132/0a74b1dd-e7a2-47db-9980-34e7d1a34ed7)![image](https://github.com/Luke-J-Miller/CS5530/assets/111100132/51288a36-b499-4fb4-bbaa-5beefba2f7a5)  
   
 The following six boxplots further show the separation of distributions based upon various features.
