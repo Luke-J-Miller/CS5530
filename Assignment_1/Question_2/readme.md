@@ -1,8 +1,8 @@
 # Question 2
-##  Raw Data
+##  [Raw Data](https://github.com/Luke-J-Miller/CS5530/tree/main/Assignment_1/Question_2/data_raw)
 A sample of the first 16 rows of raw data that includes numerous categorical variables that are difficult to model.  
 ![image](https://github.com/Luke-J-Miller/CS5530/assets/111100132/c3c846a1-94cb-4f5d-a6af-ccbfc665c06a)![image](https://github.com/Luke-J-Miller/CS5530/assets/111100132/d13e1f5a-1d3a-46e5-9da9-43e092240a86)  
-## Cleaned Data
+## [Cleaned Data](https://github.com/Luke-J-Miller/CS5530/tree/main/Assignment_1/Question_2/data_clean)
 The data was cleaned to one-hot encode all the categorical variables.  It is not shown in this screen shot, but the scores were later combined and averaged to create a combined score feature.
 ![image](https://github.com/Luke-J-Miller/CS5530/assets/111100132/5c27084f-250d-4b65-bf2e-af6974b1e3c8)  
 ## Understanding relationships by visualization  
