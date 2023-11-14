@@ -22,7 +22,7 @@ Similarly to the reasoning in part a,the sample has a lower 98th percentile sinc
   
 ### c) Using bootstrap (replace= True), create 500 samples (of 150 observation each) from the population and find the average mean, standard deviation and percentile for BloodPressure and compare this with these statistics from the population for the same variable. Again, you should create charts for this comparison. Report on your findings. (10 points)  
   
-![image](https://github.com/Luke-J-Miller/CS5530/assets/111100132/4cf4509f-bbe7-48df-b1a7-a8477bbe961b)  
+![image](https://github.com/Luke-J-Miller/CS5530/assets/111100132/31209186-9d17-4c52-9f23-6f82b8048753)   
   
 ![image](https://github.com/Luke-J-Miller/CS5530/assets/111100132/fd8a1f9c-9609-45af-8518-542766806400)  
   
