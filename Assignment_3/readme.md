@@ -26,4 +26,4 @@ Similarly to the reasoning in part a,the sample has a lower 98th percentile sinc
   
 ![image](https://github.com/Luke-J-Miller/CS5530/assets/111100132/fd8a1f9c-9609-45af-8518-542766806400)  
   
-Here we are able to see the strenght of bootstrapped samples. The mean and variance are nearly identical in the population and sample.  There is a little over two percent diffence in the 95th percentile values, but it is still a very close approximation.  In this instance, we are able to sample from the entire population (for illustrative purpose) and the bootstrap sample is over two-thirds the size of the population.  Close concordance is to be expected.
+Here we are able to see the strenght of bootstrapped samples. The mean and variance are nearly identical in the population and sample.  There is a little under two percent diffence in the 95th percentile values, but it is still a very close approximation.  In this instance, we are able to sample from the entire population (for illustrative purpose.)  Close concordance is to be expected.
